@@ -1,4 +1,4 @@
-# Data Science Portifolio
+# Data Science Portifolio Guide
 <img width="400" height="200" src="https://github.com/BrenoJesusFernandes/data-science-portifolio/blob/main/img/6fd7fc.jpg"> </br>
 ## Let me guide you cowboy
 
