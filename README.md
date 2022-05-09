@@ -1,9 +1,9 @@
-# Data Science Portifolio Guide
-<p align="center">
-  <img width="600" height="300" align="middle" src="https://github.com/BrenoJesusFernandes/data-science-portifolio/blob/main/img/6fd7fc.jpg"> </br>
+# Data Science Portifolio Guide :bulb::computer: 
+<p>
+  <img width="600" height="300" src="https://github.com/BrenoJesusFernandes/data-science-portifolio/blob/main/img/6fd7fc.jpg"> </br>
 </p>
 
-## Let me guide you cowboy
+## Let me guide you cowboy 🤠🤖
 
 1 - Analysis about something
 
