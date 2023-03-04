@@ -1,46 +1,55 @@
-# Data Science Portifolio Guide :bulb::computer: 
-<p>
-  <img width="450" height="200" src="https://github.com/BrenoJesusFernandes/data-science-portifolio/blob/main/img/6fd7fc.jpg"> </br>
-</p>
+# **Data Science Portifolio Guide** 💡🖥️
+  <div align="center">
+    <img width="225" height="200" src="img/are-you-lost.png">
+    <img width="225" height="200" src="img/not-anymore.png"> <br>
+    <img width="450" height="200" src="img/let-me-guide.png">
+  </div>
 
+## **Insights Projects** 💡📝
 
-## Let me guide you cowboy 🤠🤖
+**Business Matter → Business Understanding → Data Collect → Data Cleanup → Data Exploration**
 
-### Insights Projects 💡:pencil2::page_facing_up:
+- Simulate a business problem, identify the root cause of this problem, collect data, handle data, raise Hypotheses about business behavior, conduct exploratory data analysis to validate hypotheses, write the insights and your project solution proposal.
 
-* Simulate a business problem, identify the root cause of this problem, collect data, handle data, raise Hypotheses about Business behavior, conduct exploratory data analysis to validate hypotheses, write the insights and your project solution proposal
+1. [Inventory Optimization for a Retail Chain](https://github.com/breno-jesus-fernandes/insights-invetory-optimization)
 
-1. [Techens](https://github.com/BrenoJesusFernandes)
+2. [Customer Segmentation for an E-commerce Company](https://github.com/breno-jesus-fernandes/insights-customer-segmentation)
 
-2. [Uptech](https://github.com/BrenoJesusFernandes)
+3. [Fraud Detection for a Financial Services Company](https://github.com/breno-jesus-fernandes/insights-fraud-detection)
 
-3. [Data Deck](https://github.com/BrenoJesusFernandes)
+## **Data Enginner Projects** 👨🛠
 
-### Data Enginner Projects 👨🛠
+**Data Collect → Data Cleanup → Data Exploration**
 
-* Collect data from external sources (web scraping), save data to a local database, update data with frequency, clean data and explore data.
+- Collect data from external sources (web scraping), save data to a local database, update data with frequency, clean data and explore data.
 
-1.  [Scienceced](https://github.com/BrenoJesusFernandes)
+1.  [Web Scraping and Data Management for a Real Estate Database](https://github.com/breno-jesus-fernandes/de-real-estate)
 
-### Machine Learning Projects :computer:🤖
+## **Machine Learning Projects** 🖥️🤖
 
-* Choose data close to the real, cleaning, exploration, modeling, apply ML Algorithms, evaluate model performance using business metrics
+**Data Collect → Data Cleanup → Data Exploration → Data modeling → Machine Learning Algorithms → Algorithm Evaluation**
 
-1.  [Sciencely](https://github.com/BrenoJesusFernandes)
+- Choose data close to the real, cleaning, exploration, modeling, apply ML Algorithms, evaluate model performance using business metrics
 
-2.  [Data Level](https://github.com/BrenoJesusFernandes)
+1.  [Predicting Customer Churn for a Telecommunications Company](https://github.com/breno-jesus-fernades/ml-custormer-churn)
 
-3.  [Data Store](https://github.com/BrenoJesusFernandes)
+2.  [Credit Risk Prediction for a Financial Institution](https://github.com/breno-jesus-fernades/ml-credit-risk)
 
-### End To End Projects 💯🔁
+3.  [Sentiment Analysis for Financial News](https://github.com/breno-jesus-fernandes/ml-sentiment-analysis)
 
-* Collect, clean and explore a data set, model, apply and evaluate the performance of models, publish the model in production
+## **End To End Projects** 💯🔁
 
-1.  [Science House](https://github.com/BrenoJesusFernandes)
+**Data Collect → Data Cleanup → Data Exploration → Data modeling → Machine Learning Algorithms → Algorithm Evaluation → Production Model**
 
-2.  [Tech Now](https://github.com/BrenoJesusFernandes)
+- Collect, clean and explore a data set, model, apply and evaluate the performance of models, publish the model in production
 
-### Data Science Project 💡:pencil2::page_facing_up:👨🛠:computer:🤖 💯🔁
+1.  [Fall Detection System](https://github.com/breno-jesus-fernandes/end-to-end-fall-detection)
 
-1. [Data Scan](https://github.com/BrenoJesusFernandes)
+2.  [Heart Disease Prediction](https://github.com/breno-jesus-fernandes/end-to-end-heart-disease)
+
+## **Full Data Science Project** 💡📝👨🛠🖥️🤖💯🔁
+
+**Business Matter → Business Understanding → Data Collect → Data Cleanup → Data Exploration → Data modeling → Machine Learning Algorithms → Algorithm Evaluation → Production Model**
+
+1. [Network Intrusion Detection using Machine Learning](https://github.com/breno-jesus-fernandes/full-ds-network-intrusion)
 
