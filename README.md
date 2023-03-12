@@ -11,11 +11,13 @@
 
 - Simulate a business problem, identify the root cause of this problem, collect data, handle data, raise Hypotheses about business behavior, conduct exploratory data analysis to validate hypotheses, write the insights and your project solution proposal.
 
-1. [Inventory Optimization for a Retail Chain](https://github.com/breno-jesus-fernandes/insights-invetory-optimization)
+1. [Detecting Fraud in Online Reviews](https://github.com/breno-jesus-fernandes/insights-fraud-reviews)
 
-2. [Customer Segmentation for an E-commerce Company](https://github.com/breno-jesus-fernandes/insights-customer-segmentation)
+2. [Detecting Signs of Depression in Social Media Posts](https://github.com/breno-jesus-fernandes/insights-depression-signs)
 
-3. [Fraud Detection for a Financial Services Company](https://github.com/breno-jesus-fernandes/insights-fraud-detection)
+3. [Developing a Recommender System for Sustainable Products](https://github.com/breno-jesus-fernandes/insights-recommender-system)
+
+4. [Detecting Bad Health in Pacients](https://github.com/breno-jesus-fernandes/insights-bad-health-detector)
 
 ## **Data Enginner Projects** 👨🛠
 
